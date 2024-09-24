@@ -1,2 +1,9 @@
-# governance
-Repository to find governance information for the open radar community
+# Open Radar Community Governance
+
+## Structure
+
+Insert governance structure here.
+
+## Mission Statement
+
+Insert mission statement here.

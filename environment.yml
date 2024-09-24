@@ -1,0 +1,7 @@
+name: governance-dev
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python
+  - mystmd
