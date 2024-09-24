@@ -5,3 +5,4 @@ channels:
 dependencies:
   - python
   - mystmd
+  - nodejs>=20,<21
